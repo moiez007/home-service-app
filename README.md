@@ -12,3 +12,10 @@
   2. Book a service as a consumer
   etc
 </body>
+
+<h4>Tech Stack</h4>
+<body>
+  - React Native for FrontEnd
+  - HyGraph/ GraphQL database
+  - ClerkAPI for user authentication
+</body>
